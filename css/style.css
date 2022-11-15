@@ -60,7 +60,7 @@ img {
   font-weight: bold;
   margin-bottom: 15px;
 }
-.unit--border {
+.unit__title--border {
   padding-bottom: 10px;
   border-bottom: 1px solid #DDDDDD;
 }
